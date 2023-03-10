@@ -9,3 +9,6 @@ need to install wkhtmltopdf:
 
 TODO Need to look into : https://github.com/MatthiasValvekens/pyHanko
     To see if this will slap signature blocks on the document
+    Get service descriptions
+    make excel key files
+    figure out way to make deployable
